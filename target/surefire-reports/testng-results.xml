@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="9682" started-at="2019-12-26T10:41:04Z" finished-at="2019-12-26T10:41:14Z">
+    <groups>
+    </groups>
+    <test name="createLead" duration-ms="9682" started-at="2019-12-26T10:41:04Z" finished-at="2019-12-26T10:41:14Z">
+      <class name="RestRed">
+        <test-method status="PASS" signature="createBaseProductOrder()[pri:0, instance:RestRed@6e0f5f7f]" name="createBaseProductOrder" duration-ms="9669" started-at="2019-12-26T10:41:04Z" finished-at="2019-12-26T10:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBaseProductOrder -->
+      </class> <!-- RestRed -->
+    </test> <!-- createLead -->
+  </suite> <!-- Suite1 -->
+</testng-results>
