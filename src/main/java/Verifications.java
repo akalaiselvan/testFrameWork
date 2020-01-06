@@ -12,7 +12,6 @@ public class Verifications extends Functions {
     }
 
     public void editTransaction(){
-        super.editTransaction();
         System.out.println("from veri");
     }
 
